@@ -1,2 +1,2 @@
 # drkapoorsclinic.com
-Static the website for drkapoorsclinic.com
+Static website for drkapoorsclinic.com
