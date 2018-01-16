@@ -6,64 +6,57 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>http://www.drkapoorsclinic.com/</loc>
+  <lastmod>2018-01-16T10:44:07+00:00</lastmod>
   <priority>1.00</priority>
-  <lastmod>2008-07-16T20:44:18+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.drkapoorsclinic.com/facilities.html</loc>
+  <lastmod>2018-01-16T10:44:07+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2008-07-14T20:41:06+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.drkapoorsclinic.com/appointments.html</loc>
+  <lastmod>2018-01-16T10:44:07+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2008-07-13T18:35:07+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.drkapoorsclinic.com/doctors.html</loc>
+  <lastmod>2018-01-16T10:44:07+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2008-07-13T18:35:13+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.drkapoorsclinic.com/aboutus.html</loc>
+  <lastmod>2018-01-16T10:44:07+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2008-07-13T18:35:05+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.drkapoorsclinic.com/contactus.html</loc>
+  <lastmod>2018-01-16T10:44:07+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2008-07-14T20:35:55+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.drkapoorsclinic.com/location.html</loc>
+  <lastmod>2018-01-16T10:44:07+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2008-07-13T21:29:32+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.drkapoorsclinic.com/index.html</loc>
+  <lastmod>2018-01-16T10:44:07+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2008-07-16T20:44:18+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.drkapoorsclinic.com/drakapoor.html</loc>
+  <lastmod>2018-01-16T10:44:07+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2008-07-14T18:21:46+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.drkapoorsclinic.com/drjkapoor.html</loc>
+  <lastmod>2018-01-16T10:44:07+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2008-07-14T18:21:48+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
+
+
 </urlset>
